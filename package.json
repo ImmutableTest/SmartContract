@@ -1,0 +1,23 @@
+{
+  "name": "SmartContract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ImmutableTest/SmartContract.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ImmutableTest/SmartContract/issues"
+  },
+  "homepage": "https://github.com/ImmutableTest/SmartContract#readme",
+  "dependencies": {
+    "@openzeppelin/contracts-ethereum-package": "^2.5.0"
+  }
+}
