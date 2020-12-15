@@ -11,8 +11,8 @@
     "url": "git+https://github.com/ImmutableTest/SmartContract.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Greg Marlin",
+  "license": "GPL",
   "bugs": {
     "url": "https://github.com/ImmutableTest/SmartContract/issues"
   },
